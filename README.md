@@ -14,6 +14,21 @@ The project uses three tables:
 - subscriptions
 - support_tickets
 
+## Database Schema
+
+- starlink_customers
+- subscriptions
+- support_tickets
+
+## How to Run
+
+1. Execute `schema.sql`.
+2. Import SQL files from the `data/` folder:
+   - `starlink_customers.sql`
+   - `subscriptions.sql`
+   - `support_tickets.sql`
+3. Run any SQL script from the `tasks/` folder.
+
 ## Technologies
 
 - SQL
@@ -49,6 +64,7 @@ The project uses three tables:
 - Correlated Subqueries
 - EXISTS / NOT EXISTS
 - NULL handling
+- Business Reporting Queries
 
 ## Tasks
 
