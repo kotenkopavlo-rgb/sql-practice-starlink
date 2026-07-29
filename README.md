@@ -102,3 +102,4 @@ The project uses three tables:
 | ST-513 | NOT EXISTS                      | ✅ |
 | ST-514 | NULLIF / COALESCE               | ✅ |
 | ST-515 | Revenue Share                   | ✅ |
+| ST-516 | Top downloader per country      | ✅ |
