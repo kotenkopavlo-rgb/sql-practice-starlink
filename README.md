@@ -106,3 +106,4 @@ The project uses three tables:
 | ST-517 | Top 2d downloader per country   | ✅ |
 | ST-518 | Top Revenue User per Country    | ✅ |
 | ST-519 | Top 3 Downloaders per Country   | ✅ |
+| ST-520 | Most Popular Plan per Country   | ✅ |
