@@ -85,25 +85,26 @@ The project uses three tables:
 
 ## Tasks
 
-| Task   | Description                     |Status |
-|--------|---------------------------------|------ |
-| ST-501 | Revenue by Tariff Plan          | ✅ |
-| ST-502 | Discounts                       | ✅ |
-| ST-503 | Above Average Users             | ✅ |
-| ST-504 | Countries Above Average Revenue | ✅ |
-| ST-505 | CASE Expressions                | ✅ |
-| ST-506 | Top Users by Downloaded Traffic | ✅ |
-| ST-507 | Window Functions                | ✅ |
-| ST-508 | Support Statistics              | ✅ |
-| ST-509 | Revenue by Country              | ✅ |
-| ST-510 | Revenue Ranking                 | ✅ |
-| ST-511 | Above Global Average Download   | ✅ |
-| ST-512 | Correlated Subqueries           | ✅ |
-| ST-513 | NOT EXISTS                      | ✅ |
-| ST-514 | NULLIF / COALESCE               | ✅ |
-| ST-515 | Revenue Share                   | ✅ |
-| ST-516 | Top downloader per country      | ✅ |
-| ST-517 | Top 2d downloader per country   | ✅ |
-| ST-518 | Top Revenue User per Country    | ✅ |
-| ST-519 | Top 3 Downloaders per Country   | ✅ |
-| ST-520 | Most Popular Plan per Country   | ✅ |
+| Task   | Description                           |Status|
+|--------|---------------------------------------|-----|
+| ST-501 | Revenue by Tariff Plan                | ✅ |
+| ST-502 | Discounts                             | ✅ |
+| ST-503 | Above Average Users                   | ✅ |
+| ST-504 | Countries Above Average Revenue       | ✅ |
+| ST-505 | CASE Expressions                      | ✅ |
+| ST-506 | Top Users by Downloaded Traffic       | ✅ |
+| ST-507 | Window Functions                      | ✅ |
+| ST-508 | Support Statistics                    | ✅ |
+| ST-509 | Revenue by Country                    | ✅ |
+| ST-510 | Revenue Ranking                       | ✅ |
+| ST-511 | Above Global Average Download         | ✅ |
+| ST-512 | Correlated Subqueries                 | ✅ |
+| ST-513 | NOT EXISTS                            | ✅ |
+| ST-514 | NULLIF / COALESCE                     | ✅ |
+| ST-515 | Revenue Share                         | ✅ |
+| ST-516 | Top downloader per country            | ✅ |
+| ST-517 | Top 2d downloader per country         | ✅ |
+| ST-518 | Top Revenue User per Country          | ✅ |
+| ST-519 | Top 3 Downloaders per Country         | ✅ |
+| ST-520 | Most Popular Plan per Country         | ✅ |
+| ST-521 | Users Above Country Average Revenue   | ✅ |
