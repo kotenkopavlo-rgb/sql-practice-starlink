@@ -109,3 +109,4 @@ The project uses three tables:
 | ST-520 | Most Popular Plan per Country         | ✅ |
 | ST-521 | Users Above Country Average Revenue   | ✅ |
 | ST-522 | Country Revenue Contribution          | ✅ |
+| ST-523 | Users Above Global Average Download   | ✅ |
