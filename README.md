@@ -111,3 +111,4 @@ The project uses three tables:
 | ST-522 | Country Revenue Contribution          | ✅ |
 | ST-523 | Users Above Global Average Download   | ✅ |
 | ST-524 | Most Popular Tariff Plan by Revenue   | ✅ |
+| ST-525 | Revenue Top Tariff Plan by Country    | ✅ |
