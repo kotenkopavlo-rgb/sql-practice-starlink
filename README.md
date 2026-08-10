@@ -113,3 +113,4 @@ The project uses three tables:
 | ST-524 | Most Popular Tariff Plan by Revenue   | ✅ |
 | ST-525 | Revenue Top Tariff Plan by Country    | ✅ |
 | ST-526 | Countries with Above-Average  Revenue | ✅ |
+| ST-527 | Country Revenue Ranking               | ✅ |
