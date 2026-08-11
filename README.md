@@ -114,3 +114,4 @@ The project uses three tables:
 | ST-525 | Revenue Top Tariff Plan by Country    | ✅ |
 | ST-526 | Countries with Above-Average  Revenue | ✅ |
 | ST-527 | Country Revenue Ranking               | ✅ |
+| ST-528 | Revenue Difference from Country Lead  | ✅ |
