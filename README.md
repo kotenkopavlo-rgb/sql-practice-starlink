@@ -115,3 +115,4 @@ The project uses three tables:
 | ST-526 | Countries with Above-Average  Revenue | ✅ |
 | ST-527 | Country Revenue Ranking               | ✅ |
 | ST-528 | Revenue Difference from Country Lead  | ✅ |
+| ST-529 | Top Revenue Plan in Each Country      | ✅ |
