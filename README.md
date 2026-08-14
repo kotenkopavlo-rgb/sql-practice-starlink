@@ -117,3 +117,7 @@ The project uses three tables:
 | ST-528 | Revenue Difference from Country Lead  | ✅ |
 | ST-529 | Top Revenue Plan in Each Country      | ✅ |
 | ST-530 | Revenue Gap Between #1 and #2 Plans   | ✅ |
+| ST-531 | Country Revenue vs Global Average     | ✅ |
+
+
+
