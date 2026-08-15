@@ -118,6 +118,10 @@ The project uses three tables:
 | ST-529 | Top Revenue Plan in Each Country      | ✅ |
 | ST-530 | Revenue Gap Between #1 and #2 Plans   | ✅ |
 | ST-531 | Country Revenue vs Global Average     | ✅ |
+| ST-532 | High-Usage Users by Country           | ✅ |
+
+
+
 
 
 
