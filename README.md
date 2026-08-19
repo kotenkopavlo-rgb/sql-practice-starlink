@@ -121,6 +121,10 @@ The project uses three tables:
 | ST-532 | High-Usage Users by Country                      | ✅ |
 | ST-533 | User Usage vs Country and Global Average         | ✅ |
 | ST-534 | Country Revenue Concentration                    | ✅ |
+| ST-535 | User Revenue vs Country Median                   | ✅ |
+
+
+
 
 
 
