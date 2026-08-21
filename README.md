@@ -123,6 +123,10 @@ The project uses three tables:
 | ST-534 | Country Revenue Concentration                    | ✅ |
 | ST-535 | User Revenue vs Country Median                   | ✅ |
 | ST-536 | Country Revenue Performance                      | ✅ |
+| ST-537 | Customer Usage Segmentation                      | ✅ |
+
+
+
 
 
 
