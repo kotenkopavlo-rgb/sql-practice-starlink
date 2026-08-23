@@ -125,6 +125,7 @@ The project uses three tables:
 | ST-536 | Country Revenue Performance                      | ✅ |
 | ST-537 | Customer Usage Segmentation                      | ✅ |
 | ST-538 | Plan Performance by Country                      | ✅ |
+| ST-539 | Customer Revenue Ranking                         | ✅ |
 
 
 
