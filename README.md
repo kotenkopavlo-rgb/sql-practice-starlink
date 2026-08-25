@@ -127,6 +127,7 @@ The project uses three tables:
 | ST-538 | Plan Performance by Country                      | ✅ |
 | ST-539 | Customer Revenue Ranking                         | ✅ |
 | ST-540 | Country Revenue Contribution                     | ✅ |
+| ST-541 | Customer Revenue Performance                     | ✅ |
 
 
 
