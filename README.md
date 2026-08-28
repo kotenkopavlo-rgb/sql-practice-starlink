@@ -130,6 +130,7 @@ The project uses three tables:
 | ST-541 | Customer Revenue Performance                     | ✅ |
 | ST-542 | Customer Usage vs Country Average                | ✅ |
 | ST-543 | Comparing User Revenue                           | ✅ |
+| ST-544 | Revenue Difference Between Users                 | ✅ |
 
 
 
