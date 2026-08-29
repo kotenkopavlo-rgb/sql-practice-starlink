@@ -131,6 +131,7 @@ The project uses three tables:
 | ST-542 | Customer Usage vs Country Average                | ✅ |
 | ST-543 | Comparing User Revenue                           | ✅ |
 | ST-544 | Revenue Difference Between Users                 | ✅ |
+| ST-545 | User Revenue Neighbors                           | ✅ |
 
 
 
