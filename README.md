@@ -133,6 +133,7 @@ The project uses three tables:
 | ST-544 | Revenue Difference Between Users                 | ✅ |
 | ST-545 | User Revenue Neighbors                           | ✅ |
 | ST-546 | Customer Revenue Leaders                         | ✅ |
+| ST-547 | Revenue Contribution by Plan                     | ✅ |
 
 
 
