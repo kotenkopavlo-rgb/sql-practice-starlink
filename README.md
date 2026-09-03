@@ -135,6 +135,7 @@ The project uses three tables:
 | ST-546 | Customer Revenue Leaders                         | ✅ |
 | ST-547 | Revenue Contribution by Plan                     | ✅ |
 | ST-548 | Country Revenue Efficiency                       | ✅ |
+| ST-549 | Country Revenue Ranking                          | ✅ |
 
 
 
