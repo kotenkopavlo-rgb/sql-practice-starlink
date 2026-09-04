@@ -136,6 +136,7 @@ The project uses three tables:
 | ST-547 | Revenue Contribution by Plan                     | ✅ |
 | ST-548 | Country Revenue Efficiency                       | ✅ |
 | ST-549 | Country Revenue Ranking                          | ✅ |
+| ST-550 | Country Revenue Gap                              | ✅ |
 
 
 
