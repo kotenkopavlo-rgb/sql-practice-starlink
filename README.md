@@ -138,6 +138,7 @@ The project uses three tables:
 | ST-549 | Country Revenue Ranking                          | ✅ |
 | ST-550 | Country Revenue Gap                              | ✅ |
 | ST-551 | Customer Email Domains                           | ✅ |
+| ST-552 | Customer Country & Phone Validation              | ✅ |
 
 
 
