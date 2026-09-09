@@ -140,6 +140,7 @@ The project uses three tables:
 | ST-551 | Customer Email Domains                           | ✅ |
 | ST-552 | Customer Country & Phone Validation              | ✅ |
 | ST-553 | Customer Distribution by City                    | ✅ |
+| ST-554 | Country City Leader Analysis                     | ✅ |
 
 
 
