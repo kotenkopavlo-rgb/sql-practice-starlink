@@ -141,6 +141,7 @@ The project uses three tables:
 | ST-552 | Customer Country & Phone Validation              | ✅ |
 | ST-553 | Customer Distribution by City                    | ✅ |
 | ST-554 | Country City Leader Analysis                     | ✅ |
+| ST-555 | Customer Gender Distribution by Country          | ✅ |
 
 
 
