@@ -143,6 +143,7 @@ The project uses three tables:
 | ST-554 | Country City Leader Analysis                     | ✅ |
 | ST-555 | Customer Gender Distribution by Country          | ✅ |
 | ST-556 | Subscription Status Analysis by Country          | ✅ |
+| ST-557 | Customer Sign-up Analysis by Month               | ✅ |
 
 
 
