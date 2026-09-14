@@ -145,6 +145,7 @@ The project uses three tables:
 | ST-556 | Subscription Status Analysis by Country          | ✅ |
 | ST-557 | Customer Sign-up Analysis by Month               | ✅ |
 | ST-558 | Monthly Customer Growth Analysis                 | ✅ |
+| ST-559 | Monthly Customer Moving Average                  | ✅ |
 
 
 
