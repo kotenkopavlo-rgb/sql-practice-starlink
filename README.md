@@ -146,6 +146,7 @@ The project uses three tables:
 | ST-557 | Customer Sign-up Analysis by Month               | ✅ |
 | ST-558 | Monthly Customer Growth Analysis                 | ✅ |
 | ST-559 | Monthly Customer Moving Average                  | ✅ |
+| ST-560 | Monthly Customer Trend Signals                   | ✅ |
 
 
 
