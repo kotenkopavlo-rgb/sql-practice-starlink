@@ -85,69 +85,69 @@ The project uses three tables:
 
 ## Tasks
 
-| Task   | Description                                      |Status|
-|--------|--------------------------------------------------|-----|
-| ST-501 | Revenue by Tariff Plan                           | ✅ |
-| ST-502 | Discounts                                        | ✅ |
-| ST-503 | Above Average Users                              | ✅ |
-| ST-504 | Countries Above Average Revenue                  | ✅ |
-| ST-505 | CASE Expressions                                 | ✅ |
-| ST-506 | Top Users by Downloaded Traffic                  | ✅ |
-| ST-507 | Window Functions                                 | ✅ |
-| ST-508 | Support Statistics                               | ✅ |
-| ST-509 | Revenue by Country                               | ✅ |
-| ST-510 | Revenue Ranking                                  | ✅ |
-| ST-511 | Above Global Average Download                    | ✅ |
-| ST-512 | Correlated Subqueries                            | ✅ |
-| ST-513 | NOT EXISTS                                       | ✅ |
-| ST-514 | NULLIF / COALESCE                                | ✅ |
-| ST-515 | Revenue Share                                    | ✅ |
-| ST-516 | Top downloader per country                       | ✅ |
-| ST-517 | Top 2d downloader per country                    | ✅ |
-| ST-518 | Top Revenue User per Country                     | ✅ |
-| ST-519 | Top 3 Downloaders per Country                    | ✅ |
-| ST-520 | Most Popular Plan per Country                    | ✅ |
-| ST-521 | Users Above Country Average Revenue              | ✅ |
-| ST-522 | Country Revenue Contribution                     | ✅ |
-| ST-523 | Users Above Global Average Download              | ✅ |
-| ST-524 | Most Popular Tariff Plan by Revenue              | ✅ |
-| ST-525 | Revenue Top Tariff Plan by Country               | ✅ |
-| ST-526 | Countries with Above-Average  Revenue            | ✅ |
-| ST-527 | Country Revenue Ranking                          | ✅ |
-| ST-528 | Revenue Difference from Country Lead             | ✅ |
-| ST-529 | Top Revenue Plan in Each Country                 | ✅ |
-| ST-530 | Revenue Gap Between #1 and #2 Plans              | ✅ |
-| ST-531 | Country Revenue vs Global Average                | ✅ |
-| ST-532 | High-Usage Users by Country                      | ✅ |
-| ST-533 | User Usage vs Country and Global Average         | ✅ |
-| ST-534 | Country Revenue Concentration                    | ✅ |
-| ST-535 | User Revenue vs Country Median                   | ✅ |
-| ST-536 | Country Revenue Performance                      | ✅ |
-| ST-537 | Customer Usage Segmentation                      | ✅ |
-| ST-538 | Plan Performance by Country                      | ✅ |
-| ST-539 | Customer Revenue Ranking                         | ✅ |
-| ST-540 | Country Revenue Contribution                     | ✅ |
-| ST-541 | Customer Revenue Performance                     | ✅ |
-| ST-542 | Customer Usage vs Country Average                | ✅ |
-| ST-543 | Comparing User Revenue                           | ✅ |
-| ST-544 | Revenue Difference Between Users                 | ✅ |
-| ST-545 | User Revenue Neighbors                           | ✅ |
-| ST-546 | Customer Revenue Leaders                         | ✅ |
-| ST-547 | Revenue Contribution by Plan                     | ✅ |
-| ST-548 | Country Revenue Efficiency                       | ✅ |
-| ST-549 | Country Revenue Ranking                          | ✅ |
-| ST-550 | Country Revenue Gap                              | ✅ |
-| ST-551 | Customer Email Domains                           | ✅ |
-| ST-552 | Customer Country & Phone Validation              | ✅ |
-| ST-553 | Customer Distribution by City                    | ✅ |
-| ST-554 | Country City Leader Analysis                     | ✅ |
-| ST-555 | Customer Gender Distribution by Country          | ✅ |
-| ST-556 | Subscription Status Analysis by Country          | ✅ |
-| ST-557 | Customer Sign-up Analysis by Month               | ✅ |
-| ST-558 | Monthly Customer Growth Analysis                 | ✅ |
-| ST-559 | Monthly Customer Moving Average                  | ✅ |
-| ST-560 | Monthly Customer Trend Signals                   | ✅ |
-
+| Task   | Description                                           |Status|
+|--------|-------------------------------------------------------|-----|
+| ST-501 | Revenue by Tariff Plan                                | ✅ |
+| ST-502 | Discounts                                             | ✅ |
+| ST-503 | Above Average Users                                   | ✅ |
+| ST-504 | Countries Above Average Revenue                       | ✅ |
+| ST-505 | CASE Expressions                                      | ✅ |
+| ST-506 | Top Users by Downloaded Traffic                       | ✅ |
+| ST-507 | Window Functions                                      | ✅ |
+| ST-508 | Support Statistics                                    | ✅ |
+| ST-509 | Revenue by Country                                    | ✅ |
+| ST-510 | Revenue Ranking                                       | ✅ |
+| ST-511 | Above Global Average Download                         | ✅ |
+| ST-512 | Correlated Subqueries                                 | ✅ |
+| ST-513 | NOT EXISTS                                            | ✅ |
+| ST-514 | NULLIF / COALESCE                                     | ✅ |
+| ST-515 | Revenue Share                                         | ✅ |
+| ST-516 | Top downloader per country                            | ✅ |
+| ST-517 | Top 2d downloader per country                         | ✅ |
+| ST-518 | Top Revenue User per Country                          | ✅ |
+| ST-519 | Top 3 Downloaders per Country                         | ✅ |
+| ST-520 | Most Popular Plan per Country                         | ✅ |
+| ST-521 | Users Above Country Average Revenue                   | ✅ |
+| ST-522 | Country Revenue Contribution                          | ✅ |
+| ST-523 | Users Above Global Average Download                   | ✅ |
+| ST-524 | Most Popular Tariff Plan by Revenue                   | ✅ |
+| ST-525 | Revenue Top Tariff Plan by Country                    | ✅ |
+| ST-526 | Countries with Above-Average  Revenue                 | ✅ |
+| ST-527 | Country Revenue Ranking                               | ✅ |
+| ST-528 | Revenue Difference from Country Lead                  | ✅ |
+| ST-529 | Top Revenue Plan in Each Country                      | ✅ |
+| ST-530 | Revenue Gap Between #1 and #2 Plans                   | ✅ |
+| ST-531 | Country Revenue vs Global Average                     | ✅ |
+| ST-532 | High-Usage Users by Country                           | ✅ |
+| ST-533 | User Usage vs Country and Global Average              | ✅ |
+| ST-534 | Country Revenue Concentration                         | ✅ |
+| ST-535 | User Revenue vs Country Median                        | ✅ |
+| ST-536 | Country Revenue Performance                           | ✅ |
+| ST-537 | Customer Usage Segmentation                           | ✅ |
+| ST-538 | Plan Performance by Country                           | ✅ |
+| ST-539 | Customer Revenue Ranking                              | ✅ |
+| ST-540 | Country Revenue Contribution                          | ✅ |
+| ST-541 | Customer Revenue Performance                          | ✅ |
+| ST-542 | Customer Usage vs Country Average                     | ✅ |
+| ST-543 | Comparing User Revenue                                | ✅ |
+| ST-544 | Revenue Difference Between Users                      | ✅ |
+| ST-545 | User Revenue Neighbors                                | ✅ |
+| ST-546 | Customer Revenue Leaders                              | ✅ |
+| ST-547 | Revenue Contribution by Plan                          | ✅ |
+| ST-548 | Country Revenue Efficiency                            | ✅ |
+| ST-549 | Country Revenue Ranking                               | ✅ |
+| ST-550 | Country Revenue Gap                                   | ✅ |
+| ST-551 | Customer Email Domains                                | ✅ |
+| ST-552 | Customer Country & Phone Validation                   | ✅ |
+| ST-553 | Customer Distribution by City                         | ✅ |
+| ST-554 | Country City Leader Analysis                          | ✅ |
+| ST-555 | Customer Gender Distribution by Country               | ✅ |
+| ST-556 | Subscription Status Analysis by Country               | ✅ |
+| ST-557 | Customer Sign-up Analysis by Month                    | ✅ |
+| ST-558 | Monthly Customer Growth Analysis                      | ✅ |
+| ST-559 | Monthly Customer Moving Average                       | ✅ |
+| ST-560 | Monthly Customer Trend Signals                        | ✅ |
+| ST-561 | Customer Sign-up Cohort Analysis                      | ✅ |
 
 
 
