@@ -149,6 +149,7 @@ The project uses three tables:
 | ST-560 | Monthly Customer Trend Signals                        | ✅ |
 | ST-561 | Customer Sign-up Cohort Analysis                      | ✅ |
 | ST-562 | Quarterly Customer Acquisition Analysis               | ✅ |
+| ST-563 | Monthly Subscription Revenue Analysis                 | ✅ |
 
 
 
