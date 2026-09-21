@@ -150,6 +150,7 @@ The project uses three tables:
 | ST-561 | Customer Sign-up Cohort Analysis                      | ✅ |
 | ST-562 | Quarterly Customer Acquisition Analysis               | ✅ |
 | ST-563 | Monthly Subscription Revenue Analysis                 | ✅ |
+| ST-564 | Subscription Plan Revenue Analysis                    | ✅ |
 
 
 
