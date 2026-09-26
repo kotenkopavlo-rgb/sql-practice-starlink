@@ -152,6 +152,7 @@ The project uses three tables:
 | ST-563 | Monthly Subscription Revenue Analysis                 | ✅ |
 | ST-564 | Subscription Plan Revenue Analysis                    | ✅ |
 | ST-565 | Customer Revenue Segmentation                         | ✅ |
+| ST-566 | Customer Data Usage Segmentation                      | ✅ |
 
 
 
