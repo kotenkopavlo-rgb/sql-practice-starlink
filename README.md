@@ -154,6 +154,8 @@ The project uses three tables:
 | ST-565 | Customer Revenue Segmentation                         | ✅ |
 | ST-566 | Customer Data Usage Segmentation                      | ✅ |
 | ST-567 | Customer Subscription Value Analysis                  | ✅ |
+| ST-568 | Country Customer Value Analysis                       | ✅ |
+
 
 
 
