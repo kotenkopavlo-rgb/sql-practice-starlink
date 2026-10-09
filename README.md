@@ -156,6 +156,7 @@ The project uses three tables:
 | ST-567 | Customer Subscription Value Analysis                  | ✅ |
 | ST-568 | Country Customer Value Analysis                       | ✅ |
 | ST-569 | Customer Revenue Ranking by Country                   | ✅ |
+| ST-570 | Customer Value & Revenue Performance Analysis         | ✅ |
 
 
 
